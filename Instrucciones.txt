@@ -1,2 +1,4 @@
 Se modifica el titulo del "Desafío de Git para probar habilidades".
-Modificación de rama Main
+Modificación de las ramas Main y Nuevo_Local
+El conflicto ocurrió al hacer el merge porque se hizo commit en la rama Nuevo_Local y luego se hizo commit en el main  con diferentes modificaciones del este archivo.
+Se guarda esta modificación en el main, luego add y commit
